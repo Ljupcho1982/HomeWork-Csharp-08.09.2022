@@ -1,0 +1,15 @@
+C:\Csharp HomeWork\remove specified a character from a non-empty\bin\Debug\net6.0\remove specified a character from a non-empty.exe
+C:\Csharp HomeWork\remove specified a character from a non-empty\bin\Debug\net6.0\remove specified a character from a non-empty.deps.json
+C:\Csharp HomeWork\remove specified a character from a non-empty\bin\Debug\net6.0\remove specified a character from a non-empty.runtimeconfig.json
+C:\Csharp HomeWork\remove specified a character from a non-empty\bin\Debug\net6.0\remove specified a character from a non-empty.dll
+C:\Csharp HomeWork\remove specified a character from a non-empty\bin\Debug\net6.0\remove specified a character from a non-empty.pdb
+C:\Csharp HomeWork\remove specified a character from a non-empty\obj\Debug\net6.0\remove specified a character from a non-empty.csproj.AssemblyReference.cache
+C:\Csharp HomeWork\remove specified a character from a non-empty\obj\Debug\net6.0\remove specified a character from a non-empty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Csharp HomeWork\remove specified a character from a non-empty\obj\Debug\net6.0\remove specified a character from a non-empty.AssemblyInfoInputs.cache
+C:\Csharp HomeWork\remove specified a character from a non-empty\obj\Debug\net6.0\remove specified a character from a non-empty.AssemblyInfo.cs
+C:\Csharp HomeWork\remove specified a character from a non-empty\obj\Debug\net6.0\remove specified a character from a non-empty.csproj.CoreCompileInputs.cache
+C:\Csharp HomeWork\remove specified a character from a non-empty\obj\Debug\net6.0\remove specified a character from a non-empty.dll
+C:\Csharp HomeWork\remove specified a character from a non-empty\obj\Debug\net6.0\refint\remove specified a character from a non-empty.dll
+C:\Csharp HomeWork\remove specified a character from a non-empty\obj\Debug\net6.0\remove specified a character from a non-empty.pdb
+C:\Csharp HomeWork\remove specified a character from a non-empty\obj\Debug\net6.0\remove specified a character from a non-empty.genruntimeconfig.cache
+C:\Csharp HomeWork\remove specified a character from a non-empty\obj\Debug\net6.0\ref\remove specified a character from a non-empty.dll

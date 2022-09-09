@@ -1,0 +1,15 @@
+C:\Csharp HomeWork\reverse the words of a sentence\bin\Debug\net6.0\reverse the words of a sentence.exe
+C:\Csharp HomeWork\reverse the words of a sentence\bin\Debug\net6.0\reverse the words of a sentence.deps.json
+C:\Csharp HomeWork\reverse the words of a sentence\bin\Debug\net6.0\reverse the words of a sentence.runtimeconfig.json
+C:\Csharp HomeWork\reverse the words of a sentence\bin\Debug\net6.0\reverse the words of a sentence.dll
+C:\Csharp HomeWork\reverse the words of a sentence\bin\Debug\net6.0\reverse the words of a sentence.pdb
+C:\Csharp HomeWork\reverse the words of a sentence\obj\Debug\net6.0\reverse the words of a sentence.csproj.AssemblyReference.cache
+C:\Csharp HomeWork\reverse the words of a sentence\obj\Debug\net6.0\reverse the words of a sentence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Csharp HomeWork\reverse the words of a sentence\obj\Debug\net6.0\reverse the words of a sentence.AssemblyInfoInputs.cache
+C:\Csharp HomeWork\reverse the words of a sentence\obj\Debug\net6.0\reverse the words of a sentence.AssemblyInfo.cs
+C:\Csharp HomeWork\reverse the words of a sentence\obj\Debug\net6.0\reverse the words of a sentence.csproj.CoreCompileInputs.cache
+C:\Csharp HomeWork\reverse the words of a sentence\obj\Debug\net6.0\reverse the words of a sentence.dll
+C:\Csharp HomeWork\reverse the words of a sentence\obj\Debug\net6.0\refint\reverse the words of a sentence.dll
+C:\Csharp HomeWork\reverse the words of a sentence\obj\Debug\net6.0\reverse the words of a sentence.pdb
+C:\Csharp HomeWork\reverse the words of a sentence\obj\Debug\net6.0\reverse the words of a sentence.genruntimeconfig.cache
+C:\Csharp HomeWork\reverse the words of a sentence\obj\Debug\net6.0\ref\reverse the words of a sentence.dll

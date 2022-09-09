@@ -1,0 +1,15 @@
+C:\Csharp HomeWork\first and last characters will change their positions\bin\Debug\net6.0\first and last characters will change their positions.exe
+C:\Csharp HomeWork\first and last characters will change their positions\bin\Debug\net6.0\first and last characters will change their positions.deps.json
+C:\Csharp HomeWork\first and last characters will change their positions\bin\Debug\net6.0\first and last characters will change their positions.runtimeconfig.json
+C:\Csharp HomeWork\first and last characters will change their positions\bin\Debug\net6.0\first and last characters will change their positions.dll
+C:\Csharp HomeWork\first and last characters will change their positions\bin\Debug\net6.0\first and last characters will change their positions.pdb
+C:\Csharp HomeWork\first and last characters will change their positions\obj\Debug\net6.0\first and last characters will change their positions.csproj.AssemblyReference.cache
+C:\Csharp HomeWork\first and last characters will change their positions\obj\Debug\net6.0\first and last characters will change their positions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Csharp HomeWork\first and last characters will change their positions\obj\Debug\net6.0\first and last characters will change their positions.AssemblyInfoInputs.cache
+C:\Csharp HomeWork\first and last characters will change their positions\obj\Debug\net6.0\first and last characters will change their positions.AssemblyInfo.cs
+C:\Csharp HomeWork\first and last characters will change their positions\obj\Debug\net6.0\first and last characters will change their positions.csproj.CoreCompileInputs.cache
+C:\Csharp HomeWork\first and last characters will change their positions\obj\Debug\net6.0\first and last characters will change their positions.dll
+C:\Csharp HomeWork\first and last characters will change their positions\obj\Debug\net6.0\refint\first and last characters will change their positions.dll
+C:\Csharp HomeWork\first and last characters will change their positions\obj\Debug\net6.0\first and last characters will change their positions.pdb
+C:\Csharp HomeWork\first and last characters will change their positions\obj\Debug\net6.0\first and last characters will change their positions.genruntimeconfig.cache
+C:\Csharp HomeWork\first and last characters will change their positions\obj\Debug\net6.0\ref\first and last characters will change their positions.dll

@@ -1,0 +1,15 @@
+C:\Csharp HomeWork\first character added at the front and back\bin\Debug\net6.0\first character added at the front and back.exe
+C:\Csharp HomeWork\first character added at the front and back\bin\Debug\net6.0\first character added at the front and back.deps.json
+C:\Csharp HomeWork\first character added at the front and back\bin\Debug\net6.0\first character added at the front and back.runtimeconfig.json
+C:\Csharp HomeWork\first character added at the front and back\bin\Debug\net6.0\first character added at the front and back.dll
+C:\Csharp HomeWork\first character added at the front and back\bin\Debug\net6.0\first character added at the front and back.pdb
+C:\Csharp HomeWork\first character added at the front and back\obj\Debug\net6.0\first character added at the front and back.csproj.AssemblyReference.cache
+C:\Csharp HomeWork\first character added at the front and back\obj\Debug\net6.0\first character added at the front and back.GeneratedMSBuildEditorConfig.editorconfig
+C:\Csharp HomeWork\first character added at the front and back\obj\Debug\net6.0\first character added at the front and back.AssemblyInfoInputs.cache
+C:\Csharp HomeWork\first character added at the front and back\obj\Debug\net6.0\first character added at the front and back.AssemblyInfo.cs
+C:\Csharp HomeWork\first character added at the front and back\obj\Debug\net6.0\first character added at the front and back.csproj.CoreCompileInputs.cache
+C:\Csharp HomeWork\first character added at the front and back\obj\Debug\net6.0\first character added at the front and back.dll
+C:\Csharp HomeWork\first character added at the front and back\obj\Debug\net6.0\refint\first character added at the front and back.dll
+C:\Csharp HomeWork\first character added at the front and back\obj\Debug\net6.0\first character added at the front and back.pdb
+C:\Csharp HomeWork\first character added at the front and back\obj\Debug\net6.0\first character added at the front and back.genruntimeconfig.cache
+C:\Csharp HomeWork\first character added at the front and back\obj\Debug\net6.0\ref\first character added at the front and back.dll

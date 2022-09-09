@@ -1,0 +1,15 @@
+C:\Csharp HomeWork\longest word in a string\bin\Debug\net6.0\longest word in a string.exe
+C:\Csharp HomeWork\longest word in a string\bin\Debug\net6.0\longest word in a string.deps.json
+C:\Csharp HomeWork\longest word in a string\bin\Debug\net6.0\longest word in a string.runtimeconfig.json
+C:\Csharp HomeWork\longest word in a string\bin\Debug\net6.0\longest word in a string.dll
+C:\Csharp HomeWork\longest word in a string\bin\Debug\net6.0\longest word in a string.pdb
+C:\Csharp HomeWork\longest word in a string\obj\Debug\net6.0\longest word in a string.csproj.AssemblyReference.cache
+C:\Csharp HomeWork\longest word in a string\obj\Debug\net6.0\longest word in a string.GeneratedMSBuildEditorConfig.editorconfig
+C:\Csharp HomeWork\longest word in a string\obj\Debug\net6.0\longest word in a string.AssemblyInfoInputs.cache
+C:\Csharp HomeWork\longest word in a string\obj\Debug\net6.0\longest word in a string.AssemblyInfo.cs
+C:\Csharp HomeWork\longest word in a string\obj\Debug\net6.0\longest word in a string.csproj.CoreCompileInputs.cache
+C:\Csharp HomeWork\longest word in a string\obj\Debug\net6.0\longest word in a string.dll
+C:\Csharp HomeWork\longest word in a string\obj\Debug\net6.0\refint\longest word in a string.dll
+C:\Csharp HomeWork\longest word in a string\obj\Debug\net6.0\longest word in a string.pdb
+C:\Csharp HomeWork\longest word in a string\obj\Debug\net6.0\longest word in a string.genruntimeconfig.cache
+C:\Csharp HomeWork\longest word in a string\obj\Debug\net6.0\ref\longest word in a string.dll
