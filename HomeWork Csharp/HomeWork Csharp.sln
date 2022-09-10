@@ -17,11 +17,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "longest word in a string", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "reverse the words of a sentence", "..\reverse the words of a sentence\reverse the words of a sentence.csproj", "{FFB30CF4-396B-4432-B275-4E9DBEEF4A6C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lastFourCharacters_from_String", "..\lastFourCharacters_from_String\lastFourCharacters_from_String.csproj", "{8A5A3EB4-15B2-40FD-AD91-6104D58A087E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lastFourCharacters_from_String", "..\lastFourCharacters_from_String\lastFourCharacters_from_String.csproj", "{8A5A3EB4-15B2-40FD-AD91-6104D58A087E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "starts with a specified word", "..\starts with a specified word\starts with a specified word.csproj", "{5BF383B9-9002-47AA-BA74-1EE10E0C1DF6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "starts with a specified word", "..\starts with a specified word\starts with a specified word.csproj", "{5BF383B9-9002-47AA-BA74-1EE10E0C1DF6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HP appears at second position", "..\HP appears at second position\HP appears at second position.csproj", "{AD15F5CC-60D5-483A-9EF8-953EAAA7E6A0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HP appears at second position", "..\HP appears at second position\HP appears at second position.csproj", "{AD15F5CC-60D5-483A-9EF8-953EAAA7E6A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "two characters from a given", "..\two characters from a given\two characters from a given.csproj", "{B7F39878-8464-4AB4-80EE-586014ED6D64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "contains ‘w’ character in given string", "..\contains ‘w’ character in given string\contains ‘w’ character in given string.csproj", "{62B2F4CB-A58A-4DA0-9D0E-0DC124EDBD27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4 characters in upper case", "..\4 characters in upper case\4 characters in upper case.csproj", "{EB462CEB-C105-4C5E-B70E-D2CD908ABF42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "(odd position) from the first position of a given string", "..\(odd position) from the first position of a given string\(odd position) from the first position of a given string.csproj", "{A0CBD6C4-6DA3-457D-9616-09FDCE127393}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +77,22 @@ Global
 		{AD15F5CC-60D5-483A-9EF8-953EAAA7E6A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AD15F5CC-60D5-483A-9EF8-953EAAA7E6A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AD15F5CC-60D5-483A-9EF8-953EAAA7E6A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7F39878-8464-4AB4-80EE-586014ED6D64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7F39878-8464-4AB4-80EE-586014ED6D64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7F39878-8464-4AB4-80EE-586014ED6D64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7F39878-8464-4AB4-80EE-586014ED6D64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62B2F4CB-A58A-4DA0-9D0E-0DC124EDBD27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62B2F4CB-A58A-4DA0-9D0E-0DC124EDBD27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62B2F4CB-A58A-4DA0-9D0E-0DC124EDBD27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62B2F4CB-A58A-4DA0-9D0E-0DC124EDBD27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB462CEB-C105-4C5E-B70E-D2CD908ABF42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB462CEB-C105-4C5E-B70E-D2CD908ABF42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB462CEB-C105-4C5E-B70E-D2CD908ABF42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB462CEB-C105-4C5E-B70E-D2CD908ABF42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0CBD6C4-6DA3-457D-9616-09FDCE127393}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0CBD6C4-6DA3-457D-9616-09FDCE127393}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0CBD6C4-6DA3-457D-9616-09FDCE127393}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0CBD6C4-6DA3-457D-9616-09FDCE127393}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

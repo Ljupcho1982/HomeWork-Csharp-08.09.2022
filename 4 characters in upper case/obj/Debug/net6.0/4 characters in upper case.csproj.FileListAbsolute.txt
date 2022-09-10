@@ -1,0 +1,15 @@
+C:\Csharp HomeWork\4 characters in upper case\bin\Debug\net6.0\4 characters in upper case.exe
+C:\Csharp HomeWork\4 characters in upper case\bin\Debug\net6.0\4 characters in upper case.deps.json
+C:\Csharp HomeWork\4 characters in upper case\bin\Debug\net6.0\4 characters in upper case.runtimeconfig.json
+C:\Csharp HomeWork\4 characters in upper case\bin\Debug\net6.0\4 characters in upper case.dll
+C:\Csharp HomeWork\4 characters in upper case\bin\Debug\net6.0\4 characters in upper case.pdb
+C:\Csharp HomeWork\4 characters in upper case\obj\Debug\net6.0\4 characters in upper case.csproj.AssemblyReference.cache
+C:\Csharp HomeWork\4 characters in upper case\obj\Debug\net6.0\4 characters in upper case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Csharp HomeWork\4 characters in upper case\obj\Debug\net6.0\4 characters in upper case.AssemblyInfoInputs.cache
+C:\Csharp HomeWork\4 characters in upper case\obj\Debug\net6.0\4 characters in upper case.AssemblyInfo.cs
+C:\Csharp HomeWork\4 characters in upper case\obj\Debug\net6.0\4 characters in upper case.csproj.CoreCompileInputs.cache
+C:\Csharp HomeWork\4 characters in upper case\obj\Debug\net6.0\4 characters in upper case.dll
+C:\Csharp HomeWork\4 characters in upper case\obj\Debug\net6.0\refint\4 characters in upper case.dll
+C:\Csharp HomeWork\4 characters in upper case\obj\Debug\net6.0\4 characters in upper case.pdb
+C:\Csharp HomeWork\4 characters in upper case\obj\Debug\net6.0\4 characters in upper case.genruntimeconfig.cache
+C:\Csharp HomeWork\4 characters in upper case\obj\Debug\net6.0\ref\4 characters in upper case.dll

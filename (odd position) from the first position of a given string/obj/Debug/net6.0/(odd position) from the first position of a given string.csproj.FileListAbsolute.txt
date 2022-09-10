@@ -1,0 +1,15 @@
+C:\Csharp HomeWork\(odd position) from the first position of a given string\bin\Debug\net6.0\(odd position) from the first position of a given string.exe
+C:\Csharp HomeWork\(odd position) from the first position of a given string\bin\Debug\net6.0\(odd position) from the first position of a given string.deps.json
+C:\Csharp HomeWork\(odd position) from the first position of a given string\bin\Debug\net6.0\(odd position) from the first position of a given string.runtimeconfig.json
+C:\Csharp HomeWork\(odd position) from the first position of a given string\bin\Debug\net6.0\(odd position) from the first position of a given string.dll
+C:\Csharp HomeWork\(odd position) from the first position of a given string\bin\Debug\net6.0\(odd position) from the first position of a given string.pdb
+C:\Csharp HomeWork\(odd position) from the first position of a given string\obj\Debug\net6.0\(odd position) from the first position of a given string.csproj.AssemblyReference.cache
+C:\Csharp HomeWork\(odd position) from the first position of a given string\obj\Debug\net6.0\(odd position) from the first position of a given string.GeneratedMSBuildEditorConfig.editorconfig
+C:\Csharp HomeWork\(odd position) from the first position of a given string\obj\Debug\net6.0\(odd position) from the first position of a given string.AssemblyInfoInputs.cache
+C:\Csharp HomeWork\(odd position) from the first position of a given string\obj\Debug\net6.0\(odd position) from the first position of a given string.AssemblyInfo.cs
+C:\Csharp HomeWork\(odd position) from the first position of a given string\obj\Debug\net6.0\(odd position) from the first position of a given string.csproj.CoreCompileInputs.cache
+C:\Csharp HomeWork\(odd position) from the first position of a given string\obj\Debug\net6.0\(odd position) from the first position of a given string.dll
+C:\Csharp HomeWork\(odd position) from the first position of a given string\obj\Debug\net6.0\refint\(odd position) from the first position of a given string.dll
+C:\Csharp HomeWork\(odd position) from the first position of a given string\obj\Debug\net6.0\(odd position) from the first position of a given string.pdb
+C:\Csharp HomeWork\(odd position) from the first position of a given string\obj\Debug\net6.0\(odd position) from the first position of a given string.genruntimeconfig.cache
+C:\Csharp HomeWork\(odd position) from the first position of a given string\obj\Debug\net6.0\ref\(odd position) from the first position of a given string.dll

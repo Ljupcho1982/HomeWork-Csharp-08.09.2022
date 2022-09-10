@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "contains ‘w’ character in given string/1.0.0": {
+        "runtime": {
+          "contains ‘w’ character in given string.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "contains ‘w’ character in given string/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

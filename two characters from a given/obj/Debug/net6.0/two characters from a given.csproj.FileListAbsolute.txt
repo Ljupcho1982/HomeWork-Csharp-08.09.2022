@@ -1,0 +1,15 @@
+C:\Csharp HomeWork\two characters from a given\bin\Debug\net6.0\two characters from a given.exe
+C:\Csharp HomeWork\two characters from a given\bin\Debug\net6.0\two characters from a given.deps.json
+C:\Csharp HomeWork\two characters from a given\bin\Debug\net6.0\two characters from a given.runtimeconfig.json
+C:\Csharp HomeWork\two characters from a given\bin\Debug\net6.0\two characters from a given.dll
+C:\Csharp HomeWork\two characters from a given\bin\Debug\net6.0\two characters from a given.pdb
+C:\Csharp HomeWork\two characters from a given\obj\Debug\net6.0\two characters from a given.csproj.AssemblyReference.cache
+C:\Csharp HomeWork\two characters from a given\obj\Debug\net6.0\two characters from a given.GeneratedMSBuildEditorConfig.editorconfig
+C:\Csharp HomeWork\two characters from a given\obj\Debug\net6.0\two characters from a given.AssemblyInfoInputs.cache
+C:\Csharp HomeWork\two characters from a given\obj\Debug\net6.0\two characters from a given.AssemblyInfo.cs
+C:\Csharp HomeWork\two characters from a given\obj\Debug\net6.0\two characters from a given.csproj.CoreCompileInputs.cache
+C:\Csharp HomeWork\two characters from a given\obj\Debug\net6.0\two characters from a given.dll
+C:\Csharp HomeWork\two characters from a given\obj\Debug\net6.0\refint\two characters from a given.dll
+C:\Csharp HomeWork\two characters from a given\obj\Debug\net6.0\two characters from a given.pdb
+C:\Csharp HomeWork\two characters from a given\obj\Debug\net6.0\two characters from a given.genruntimeconfig.cache
+C:\Csharp HomeWork\two characters from a given\obj\Debug\net6.0\ref\two characters from a given.dll

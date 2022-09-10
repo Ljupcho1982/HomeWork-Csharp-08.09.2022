@@ -1,0 +1,15 @@
+C:\Csharp HomeWork\contains ‘w’ character in given string\bin\Debug\net6.0\contains ‘w’ character in given string.exe
+C:\Csharp HomeWork\contains ‘w’ character in given string\bin\Debug\net6.0\contains ‘w’ character in given string.deps.json
+C:\Csharp HomeWork\contains ‘w’ character in given string\bin\Debug\net6.0\contains ‘w’ character in given string.runtimeconfig.json
+C:\Csharp HomeWork\contains ‘w’ character in given string\bin\Debug\net6.0\contains ‘w’ character in given string.dll
+C:\Csharp HomeWork\contains ‘w’ character in given string\bin\Debug\net6.0\contains ‘w’ character in given string.pdb
+C:\Csharp HomeWork\contains ‘w’ character in given string\obj\Debug\net6.0\contains ‘w’ character in given string.csproj.AssemblyReference.cache
+C:\Csharp HomeWork\contains ‘w’ character in given string\obj\Debug\net6.0\contains ‘w’ character in given string.GeneratedMSBuildEditorConfig.editorconfig
+C:\Csharp HomeWork\contains ‘w’ character in given string\obj\Debug\net6.0\contains ‘w’ character in given string.AssemblyInfoInputs.cache
+C:\Csharp HomeWork\contains ‘w’ character in given string\obj\Debug\net6.0\contains ‘w’ character in given string.AssemblyInfo.cs
+C:\Csharp HomeWork\contains ‘w’ character in given string\obj\Debug\net6.0\contains ‘w’ character in given string.csproj.CoreCompileInputs.cache
+C:\Csharp HomeWork\contains ‘w’ character in given string\obj\Debug\net6.0\contains ‘w’ character in given string.dll
+C:\Csharp HomeWork\contains ‘w’ character in given string\obj\Debug\net6.0\refint\contains ‘w’ character in given string.dll
+C:\Csharp HomeWork\contains ‘w’ character in given string\obj\Debug\net6.0\contains ‘w’ character in given string.pdb
+C:\Csharp HomeWork\contains ‘w’ character in given string\obj\Debug\net6.0\contains ‘w’ character in given string.genruntimeconfig.cache
+C:\Csharp HomeWork\contains ‘w’ character in given string\obj\Debug\net6.0\ref\contains ‘w’ character in given string.dll
