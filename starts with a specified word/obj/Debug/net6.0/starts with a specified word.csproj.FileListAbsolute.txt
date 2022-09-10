@@ -1,0 +1,15 @@
+C:\Csharp HomeWork\starts with a specified word\bin\Debug\net6.0\starts with a specified word.exe
+C:\Csharp HomeWork\starts with a specified word\bin\Debug\net6.0\starts with a specified word.deps.json
+C:\Csharp HomeWork\starts with a specified word\bin\Debug\net6.0\starts with a specified word.runtimeconfig.json
+C:\Csharp HomeWork\starts with a specified word\bin\Debug\net6.0\starts with a specified word.dll
+C:\Csharp HomeWork\starts with a specified word\bin\Debug\net6.0\starts with a specified word.pdb
+C:\Csharp HomeWork\starts with a specified word\obj\Debug\net6.0\starts with a specified word.csproj.AssemblyReference.cache
+C:\Csharp HomeWork\starts with a specified word\obj\Debug\net6.0\starts with a specified word.GeneratedMSBuildEditorConfig.editorconfig
+C:\Csharp HomeWork\starts with a specified word\obj\Debug\net6.0\starts with a specified word.AssemblyInfoInputs.cache
+C:\Csharp HomeWork\starts with a specified word\obj\Debug\net6.0\starts with a specified word.AssemblyInfo.cs
+C:\Csharp HomeWork\starts with a specified word\obj\Debug\net6.0\starts with a specified word.csproj.CoreCompileInputs.cache
+C:\Csharp HomeWork\starts with a specified word\obj\Debug\net6.0\starts with a specified word.dll
+C:\Csharp HomeWork\starts with a specified word\obj\Debug\net6.0\refint\starts with a specified word.dll
+C:\Csharp HomeWork\starts with a specified word\obj\Debug\net6.0\starts with a specified word.pdb
+C:\Csharp HomeWork\starts with a specified word\obj\Debug\net6.0\starts with a specified word.genruntimeconfig.cache
+C:\Csharp HomeWork\starts with a specified word\obj\Debug\net6.0\ref\starts with a specified word.dll

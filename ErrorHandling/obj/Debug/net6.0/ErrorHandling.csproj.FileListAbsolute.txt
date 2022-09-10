@@ -1,0 +1,15 @@
+C:\Csharp HomeWork\ErrorHandling\bin\Debug\net6.0\ErrorHandling.exe
+C:\Csharp HomeWork\ErrorHandling\bin\Debug\net6.0\ErrorHandling.deps.json
+C:\Csharp HomeWork\ErrorHandling\bin\Debug\net6.0\ErrorHandling.runtimeconfig.json
+C:\Csharp HomeWork\ErrorHandling\bin\Debug\net6.0\ErrorHandling.dll
+C:\Csharp HomeWork\ErrorHandling\bin\Debug\net6.0\ErrorHandling.pdb
+C:\Csharp HomeWork\ErrorHandling\obj\Debug\net6.0\ErrorHandling.csproj.AssemblyReference.cache
+C:\Csharp HomeWork\ErrorHandling\obj\Debug\net6.0\ErrorHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Csharp HomeWork\ErrorHandling\obj\Debug\net6.0\ErrorHandling.AssemblyInfoInputs.cache
+C:\Csharp HomeWork\ErrorHandling\obj\Debug\net6.0\ErrorHandling.AssemblyInfo.cs
+C:\Csharp HomeWork\ErrorHandling\obj\Debug\net6.0\ErrorHandling.csproj.CoreCompileInputs.cache
+C:\Csharp HomeWork\ErrorHandling\obj\Debug\net6.0\ErrorHandling.dll
+C:\Csharp HomeWork\ErrorHandling\obj\Debug\net6.0\refint\ErrorHandling.dll
+C:\Csharp HomeWork\ErrorHandling\obj\Debug\net6.0\ErrorHandling.pdb
+C:\Csharp HomeWork\ErrorHandling\obj\Debug\net6.0\ErrorHandling.genruntimeconfig.cache
+C:\Csharp HomeWork\ErrorHandling\obj\Debug\net6.0\ref\ErrorHandling.dll

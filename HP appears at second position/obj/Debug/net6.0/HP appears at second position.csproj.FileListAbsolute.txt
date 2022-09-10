@@ -1,0 +1,15 @@
+C:\Csharp HomeWork\HP appears at second position\bin\Debug\net6.0\HP appears at second position.exe
+C:\Csharp HomeWork\HP appears at second position\bin\Debug\net6.0\HP appears at second position.deps.json
+C:\Csharp HomeWork\HP appears at second position\bin\Debug\net6.0\HP appears at second position.runtimeconfig.json
+C:\Csharp HomeWork\HP appears at second position\bin\Debug\net6.0\HP appears at second position.dll
+C:\Csharp HomeWork\HP appears at second position\bin\Debug\net6.0\HP appears at second position.pdb
+C:\Csharp HomeWork\HP appears at second position\obj\Debug\net6.0\HP appears at second position.csproj.AssemblyReference.cache
+C:\Csharp HomeWork\HP appears at second position\obj\Debug\net6.0\HP appears at second position.GeneratedMSBuildEditorConfig.editorconfig
+C:\Csharp HomeWork\HP appears at second position\obj\Debug\net6.0\HP appears at second position.AssemblyInfoInputs.cache
+C:\Csharp HomeWork\HP appears at second position\obj\Debug\net6.0\HP appears at second position.AssemblyInfo.cs
+C:\Csharp HomeWork\HP appears at second position\obj\Debug\net6.0\HP appears at second position.csproj.CoreCompileInputs.cache
+C:\Csharp HomeWork\HP appears at second position\obj\Debug\net6.0\HP appears at second position.dll
+C:\Csharp HomeWork\HP appears at second position\obj\Debug\net6.0\refint\HP appears at second position.dll
+C:\Csharp HomeWork\HP appears at second position\obj\Debug\net6.0\HP appears at second position.pdb
+C:\Csharp HomeWork\HP appears at second position\obj\Debug\net6.0\HP appears at second position.genruntimeconfig.cache
+C:\Csharp HomeWork\HP appears at second position\obj\Debug\net6.0\ref\HP appears at second position.dll
